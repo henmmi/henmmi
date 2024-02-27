@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Henry Nguyen a Software Engineer from Adelaide.👋
 
 <!--
 **henmmi/henmmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
